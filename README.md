@@ -13,7 +13,7 @@ This is a note-taking application that allows users to create, save, and view no
 5. When the user clicks on an existing note in the list in the left-hand column, that note appears in the right-hand column.
 6. When the user clicks on the Write icon in the navigation at the top of the page, they are presented with empty fields to enter a new note title and the note’s text in the right-hand column.
 
-[Note Taker link](insertherokulinkhere "express-note-taker-kolelam.herokuapp.com")
+[Note Taker link](https://kolesnotes-87e290846366.herokuapp.com/ "express-note-taker-kolelam.herokuapp.com")
 
 ## License
 
